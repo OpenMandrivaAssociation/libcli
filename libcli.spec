@@ -8,7 +8,7 @@ Release:	1
 Summary:	A shared library for a Cisco-like cli
 Group:		System/Libraries
 License:	LGPLv2+
-URL:		http://sites.dparrish.com/libcli
+URL:		https://sites.dparrish.com/libcli
 Source0:	https://github.com/dparrish/libcli/archive/refs/tags/V%{version}.tar.gz
 
 %description
