@@ -11,6 +11,7 @@ License:	LGPLv2+
 URL:		https://sites.dparrish.com/libcli
 Source0:	https://github.com/dparrish/libcli/archive/refs/tags/V%{version}.tar.gz
 
+BuildRequires:	make
 %description
 Libcli provides a shared library for including a Cisco-like command-line 
 interface into other software. It's a telnet interface which supports 
